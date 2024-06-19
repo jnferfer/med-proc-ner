@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 2237 2292	análisis anatomopatológico de la pared de la tumoración
+T2	PROCEDIMIENTO 1659 1674	disección renal
+T3	PROCEDIMIENTO 1602 1622	lumbotomía izquierda
+T4	PROCEDIMIENTO 1071 1074	TAC
+T5	PROCEDIMIENTO 798 816	estudio ecográfico
+T6	PROCEDIMIENTO 325 337	tacto rectal
+T7	PROCEDIMIENTO 593 641	ureterolitectomía del tercio superior del uréter
+T8	PROCEDIMIENTO 1533 1544	nefrectomía
+T9	PROCEDIMIENTO 394 413	ecografía abdominal
+T10	PROCEDIMIENTO 688 698	lumbotomía
+T11	PROCEDIMIENTO 1835 1858	biopsia intraoperatoria
+T12	PROCEDIMIENTO 1428 1448	estudio de extensión
+T13	PROCEDIMIENTO 1509 1528	exéresis de la masa
+T14	PROCEDIMIENTO 1979 2020	exéresis de la totalidad de la tumoración
+T15	PROCEDIMIENTO 2071 2090	exéresis de la masa
+T16	PROCEDIMIENTO 492 527	intervención sobre el ojo izquierdo
+T17	PROCEDIMIENTO 1487 1506	revisión quirúrgica

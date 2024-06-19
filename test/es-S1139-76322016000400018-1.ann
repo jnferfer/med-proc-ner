@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 1508 1535	radiografía simple de tórax
+T2	PROCEDIMIENTO 2246 2258	broncoscopia
+T3	PROCEDIMIENTO 2830 2876	cirugía de abordaje torácico lateral izquierdo
+T4	PROCEDIMIENTO 1181 1202	intubación operatoria
+T5	PROCEDIMIENTO 460 470	gasometría
+T6	PROCEDIMIENTO 1674 1704	nasolaringoendoscopia flexible
+T7	PROCEDIMIENTO 510 521	ultrasonido
+T8	PROCEDIMIENTO 1274 1286	nebulización
+T9	PROCEDIMIENTO 615 634	técnica de Ramstedt
+T10	PROCEDIMIENTO 1046 1060	pulsioximetría
+T11	PROCEDIMIENTO 2567 2607	angiografía por tomografía computarizada
+T12	PROCEDIMIENTO 1882 1920	serie fluoroscópica con contraste oral
+T13	PROCEDIMIENTO 2609 2617	angio-TC
+T14	PROCEDIMIENTO 2760 2775	ecocardiografía
+T15	PROCEDIMIENTO 2080 2097	cirugía de píloro
+T16	PROCEDIMIENTO 689 701	fue intubado

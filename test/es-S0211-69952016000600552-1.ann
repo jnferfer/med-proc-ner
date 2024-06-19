@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 747 765	exploración física
+T2	PROCEDIMIENTO 778 797	analítica en sangre
+T3	PROCEDIMIENTO 1127 1136	hemograma
+T4	PROCEDIMIENTO 1142 1164	estudio de coagulación
+T5	PROCEDIMIENTO 1332 1352	estudio inmunológico
+T6	PROCEDIMIENTO 1395 1419	electroforesis en sangre
+T7	PROCEDIMIENTO 1456 1485	serología de virus B, C y VIH
+T8	PROCEDIMIENTO 1506 1526	sistemático de orina
+T9	PROCEDIMIENTO 1572 1585	orina de 24 h
+T10	PROCEDIMIENTO 1748 1766	electrocardiograma
+T11	PROCEDIMIENTO 1848 1868	radiografía de tórax
+T12	PROCEDIMIENTO 1887 1916	radiografía simple de abdomen
+T13	PROCEDIMIENTO 2948 2966	exploración física
+T14	PROCEDIMIENTO 3430 3447	test de edrofonio
+T15	PROCEDIMIENTO 3460 3486	TAC cerebral sin contraste
+T16	PROCEDIMIENTO 3519 3522	EEG
+T17	PROCEDIMIENTO 4342 4358	Estudio genético
+T18	PROCEDIMIENTO 4683 4699	estudio genético
+T19	PROCEDIMIENTO 4716 4785	análisis de todos los genes asociados a enfermedad tubulointersticial
+T20	PROCEDIMIENTO 6011 6035	Estudio de cosegregación
+T21	PROCEDIMIENTO 6090 6114	trasplante renal de vivo
+T22	PROCEDIMIENTO 6130 6176	estudio de cosegregación en ambos progenitores
+T23	PROCEDIMIENTO 3108 3127	analítica en sangre

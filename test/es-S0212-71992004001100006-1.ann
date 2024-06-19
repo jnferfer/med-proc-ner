@@ -1,0 +1,36 @@
+T1	PROCEDIMIENTO 1240 1266	exploración física general
+T2	PROCEDIMIENTO 2061 2080	analítica sanguínea
+T3	PROCEDIMIENTO 4163 4196	tratamiento radioterápico craneal
+T4	PROCEDIMIENTO 4234 4270	tratamiento paliativo con tamoxifeno
+T5	PROCEDIMIENTO 3787 3814	punciones lumbares seriadas
+T6	PROCEDIMIENTO 306 347	tratamiento empírico con glucocorticoides
+T7	PROCEDIMIENTO 4344 4351	biopsia
+T8	PROCEDIMIENTO 2249 2258	hemograma
+T9	PROCEDIMIENTO 3889 3924	biopsia de hueso craneal y meninges
+T10	PROCEDIMIENTO 4372 4399	TAC toraco-abdomino-pélvico
+T11	PROCEDIMIENTO 423 447	biopsia de dicha arteria
+T12	PROCEDIMIENTO 1503 1530	auscultación cardiopulmonar
+T13	PROCEDIMIENTO 526 547	examen oftalmoscópico
+T14	PROCEDIMIENTO 4080 4105	perfil inmunohistoquímico
+T15	PROCEDIMIENTO 4570 4588	estudio necrópsico
+T16	PROCEDIMIENTO 605 617	RMN cerebral
+T17	PROCEDIMIENTO 744 760	análisis del LCR
+T18	PROCEDIMIENTO 2638 2649	TAC craneal
+T19	PROCEDIMIENTO 802 829	tratamiento con corticoides
+T20	PROCEDIMIENTO 885 915	biopsia de la arteria temporal
+T21	PROCEDIMIENTO 2803 2817	punción lumbar
+T22	PROCEDIMIENTO 2971 2987	cultivos del LCR
+T23	PROCEDIMIENTO 3020 3031	estudio EEG
+T24	PROCEDIMIENTO 3174 3185	RM cerebral
+T25	PROCEDIMIENTO 3314 3324	mamografía
+T26	PROCEDIMIENTO 3343 3365	serie ósea metastásica
+T27	PROCEDIMIENTO 3409 3421	rastreo óseo
+T28	PROCEDIMIENTO 3530 3554	biopsia de cresta iliaca
+T29	PROCEDIMIENTO 3621 3648	TAC toraco-abdómino-pélvica
+T30	PROCEDIMIENTO 2512 2525	Proteinograma
+T31	PROCEDIMIENTO 1856 1868	fondo de ojo
+T32	PROCEDIMIENTO 2528 2531	IEF
+T33	PROCEDIMIENTO 2569 2589	marcadores tumorales
+T34	PROCEDIMIENTO 3942 3970	resultado anatomo-patológico
+T41	PROCEDIMIENTO 1475 1486	se palpaban
+T35	PROCEDIMIENTO 2210 2220	bioquímica

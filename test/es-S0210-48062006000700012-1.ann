@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 1143 1151	sedación
+T2	PROCEDIMIENTO 971 1006	ecografía abdominal y transperineal
+T3	PROCEDIMIENTO 1178 1208	drenaje percutáneo del absceso
+T4	PROCEDIMIENTO 1479 1490	antibiótico
+T5	PROCEDIMIENTO 842 860	sedimento de orina
+T6	PROCEDIMIENTO 1211 1247	colocación de un catéter suprapúbico
+T7	PROCEDIMIENTO 136 159	tratamiento antibiótico
+T8	PROCEDIMIENTO 1264 1297	punción transperineal ecodirigida
+T9	PROCEDIMIENTO 671 683	tacto rectal
+T10	PROCEDIMIENTO 312 322	urocultivo
+T11	PROCEDIMIENTO 1725 1740	ecográficamente
+T12	PROCEDIMIENTO 214 223	sedimento
+T13	PROCEDIMIENTO 1331 1374	se deja "pig-tail" de 7 French como drenaje
+T14	PROCEDIMIENTO 920 936	prueba de imagen
+T15	PROCEDIMIENTO 1381 1427	cultivos del contenido purulento y de la orina
+T16	PROCEDIMIENTO 1585 1626	"pig-tail" durante 24 horas y retirándose
+T18	PROCEDIMIENTO 483 494	exploración

@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 1648 1733	enteroscopia con cápsula endoscópica (ECE) para valorar el resto de intestino delgado
+T2	PROCEDIMIENTO 1918 1962	se transfundieron 3 concentrados de hematíes
+T3	PROCEDIMIENTO 355 367	gastroscopia
+T4	PROCEDIMIENTO 369 381	colonoscopia
+T5	PROCEDIMIENTO 383 403	gammagrafía con Tc99
+T6	PROCEDIMIENTO 405 417	enteroscopia
+T7	PROCEDIMIENTO 419 438	tránsito intestinal
+T8	PROCEDIMIENTO 2036 2049	arteriografía
+T9	PROCEDIMIENTO 441 454	arteriografía
+T10	PROCEDIMIENTO 504 516	gastroscopia
+T11	PROCEDIMIENTO 518 530	colonoscopia
+T12	PROCEDIMIENTO 533 543	ileoscopia
+T13	PROCEDIMIENTO 546 579	gammagrafía con hematíes marcados
+T14	PROCEDIMIENTO 633 651	exploración física
+T15	PROCEDIMIENTO 2326 2400	resección ileal incluyendo el divertículo con anastomosis termino-terminal
+T16	PROCEDIMIENTO 773 782	hemograma
+T17	PROCEDIMIENTO 784 794	bioquímica
+T18	PROCEDIMIENTO 2447 2470	exploración con cápsula
+T19	PROCEDIMIENTO 894 927	gammagrafía con hematíes marcados
+T20	PROCEDIMIENTO 1241 1253	colonoscopia
+T21	PROCEDIMIENTO 1496 1534	transfundir 2 concentrados de hematíes
+T22	PROCEDIMIENTO 1550 1563	arteriografía
+T23	PROCEDIMIENTO 2144 2163	laparotomía urgente
+T24	PROCEDIMIENTO 1846 1855	analítica
+T25	PROCEDIMIENTO 797 808	coagulación
+T26	PROCEDIMIENTO 962 985	administrar el trazador
+T27	PROCEDIMIENTO 1686 1689	ECE

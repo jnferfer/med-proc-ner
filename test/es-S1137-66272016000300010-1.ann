@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1234 1252	Electrocardiograma
+T2	PROCEDIMIENTO 1460 1479	Analítica de sangre
+T3	PROCEDIMIENTO 1365 1385	Radiografía de tórax
+T4	PROCEDIMIENTO 2938 2963	extracción de la litiasis
+T5	PROCEDIMIENTO 491 509	exploración física
+T6	PROCEDIMIENTO 1857 1872	endoscopia oral
+T7	PROCEDIMIENTO 1625 1638	fluidoterapia
+T8	PROCEDIMIENTO 1641 1653	antieméticos
+T9	PROCEDIMIENTO 1811 1826	endoscopia oral
+T10	PROCEDIMIENTO 754 775	Auscultación cardiaca
+T11	PROCEDIMIENTO 870 891	Auscultación pulmonar
+T12	PROCEDIMIENTO 966 975	palpación
+T13	PROCEDIMIENTO 2297 2319	extracción endoscópica
+T14	PROCEDIMIENTO 2352 2378	desimpactación del duodeno
+T15	PROCEDIMIENTO 1067 1079	Tacto rectal
+T16	PROCEDIMIENTO 2568 2578	litotricia
+T17	PROCEDIMIENTO 2607 2692	con un asa de polipectomía se introduce la litiasis de manera parcial en un sobretubo
+T18	PROCEDIMIENTO 2751 2824	extracción de la litiasis mediante endoscopia a través de la cavidad oral
+T19	PROCEDIMIENTO 2391 2419	presa mediante un asa de red
+T20	PROCEDIMIENTO 2437 2527	se consigue franquear el píloro en sentido inverso, y se transporta la litiasis a estómago
+T21	PROCEDIMIENTO 3050 3082	control analítico y radiográfico

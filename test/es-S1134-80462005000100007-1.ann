@@ -1,0 +1,35 @@
+T1	PROCEDIMIENTO 1062 1082	inducción anestésica
+T2	PROCEDIMIENTO 77 107	tenotomía de rodilla bilateral
+T3	PROCEDIMIENTO 1099 1133	canalización de una vía periférica
+T4	PROCEDIMIENTO 1208 1309	intubación endotraqueal se realizó con un tubo flexometálico de calibre 6.5 Fr. con neumotaponamiento
+T5	PROCEDIMIENTO 255 271	estudio genético
+T6	PROCEDIMIENTO 1292 1309	neumotaponamiento
+T7	PROCEDIMIENTO 1315 1336	bloqueo neuromuscular
+T8	PROCEDIMIENTO 1369 1393	mantenimiento anestésico
+T9	PROCEDIMIENTO 511 520	hemograma
+T10	PROCEDIMIENTO 1567 1602	ventilado mecánicamente con O2-aire
+T11	PROCEDIMIENTO 584 604	radiografía de tórax
+T12	PROCEDIMIENTO 679 709	estudio funcional respiratorio
+T13	PROCEDIMIENTO 1809 1865	se colocó un catéter (20G) para analgesia postquirúrgica
+T14	PROCEDIMIENTO 857 875	electrocardiograma
+T15	PROCEDIMIENTO 877 880	ECG
+T16	PROCEDIMIENTO 1914 1929	vasoconstrictor
+T17	PROCEDIMIENTO 2137 2167	bloqueo muscular con mivacurio
+T18	PROCEDIMIENTO 2169 2202	monitorizada con neuroestimulador
+T19	PROCEDIMIENTO 2241 2271	reversión del bloqueo muscular
+T20	PROCEDIMIENTO 2399 2408	analgesia
+T21	PROCEDIMIENTO 2491 2531	fentanilo por el catéter epidural lumbar
+T22	PROCEDIMIENTO 2550 2559	analgesia
+T23	PROCEDIMIENTO 2848 2864	anestésico local
+T24	PROCEDIMIENTO 2927 2945	analgesia epidural
+T25	PROCEDIMIENTO 3004 3030	catéter epidural se retiró
+T26	PROCEDIMIENTO 1715 1773	anestesia epidural a nivel de L4-L5 con una aguja de Tuohy
+T27	PROCEDIMIENTO 526 537	coagulación
+T28	PROCEDIMIENTO 2047 2055	extubado
+T29	PROCEDIMIENTO 1208 1231	intubación endotraqueal
+T30	PROCEDIMIENTO 2997 2999	AL
+T31	PROCEDIMIENTO 2866 2868	AL
+T35	PROCEDIMIENTO 2071 2078	cirugía
+T36	PROCEDIMIENTO 2649 2656	cirugía
+T39	PROCEDIMIENTO 1983 1995	intervención
+T32	PROCEDIMIENTO 1650 1698	colocarle en decúbito prono para ser intervenido

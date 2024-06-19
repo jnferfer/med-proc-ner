@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 1504 1524	análisis histológico
+T2	PROCEDIMIENTO 2049 2068	exploración clínica
+T3	PROCEDIMIENTO 2085 2087	TC
+T4	PROCEDIMIENTO 234 257	tratamiento ortodóncico
+T5	PROCEDIMIENTO 617 634	ortopantomografía
+T6	PROCEDIMIENTO 641 663	radiografía periapical
+T7	PROCEDIMIENTO 1165 1180	anestesia local
+T8	PROCEDIMIENTO 1349 1366	anestesia general
+T9	PROCEDIMIENTO 1425 1455	extirpación completa del tumor
+T10	PROCEDIMIENTO 1470 1499	curetaje del lecho quirúrgico
+T11	PROCEDIMIENTO 1606 1623	Microscópicamente
+T12	PROCEDIMIENTO 403 414	exploración
+T15	PROCEDIMIENTO 1153 1160	cirugía
+T16	PROCEDIMIENTO 1336 1343	cirugía

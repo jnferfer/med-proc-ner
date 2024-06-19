@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 1217 1228	Rx de tórax
+T2	PROCEDIMIENTO 1248 1275	TAC toraco-abdómino-pélvico
+T3	PROCEDIMIENTO 1530 1574	biopsia del testículo izquierdo vía inguinal
+T4	PROCEDIMIENTO 1985 2016	biopsia del testículo izquierdo
+T5	PROCEDIMIENTO 2389 2416	biopsia del teste izquierdo
+T6	PROCEDIMIENTO 120 130	ecográfico
+T7	PROCEDIMIENTO 324 347	Uretrotomía endoscópica
+T8	PROCEDIMIENTO 984 1002	exploración física
+T9	PROCEDIMIENTO 2075 2090	histopatológico
+T10	PROCEDIMIENTO 1398 1418	marcadores tumorales
+T11	PROCEDIMIENTO 2662 2682	marcadores tumorales
+T12	PROCEDIMIENTO 1490 1527	orquiectomía radical inguinal derecha
+T13	PROCEDIMIENTO 260 272	orquidopexia
+T14	PROCEDIMIENTO 481 485	LEOC
+T15	PROCEDIMIENTO 487 504	Ureterolitectomía
+T16	PROCEDIMIENTO 738 751	espermiograma
+T17	PROCEDIMIENTO 789 817	ecografía-doppler testicular
+T18	PROCEDIMIENTO 2624 2645	evidencia radiológica
+T19	PROCEDIMIENTO 1308 1317	analítica

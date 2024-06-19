@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 1390 1402	espirometría
+T2	PROCEDIMIENTO 1861 1876	vendaje en ocho
+T3	PROCEDIMIENTO 1407 1425	electrocardiograma
+T4	PROCEDIMIENTO 891 900	analgesia
+T5	PROCEDIMIENTO 1881 1892	cabestrillo
+T6	PROCEDIMIENTO 902 934	antiinflamatorios no esteroideos
+T7	PROCEDIMIENTO 1431 1445	ecocardiograma
+T8	PROCEDIMIENTO 1466 1485	analítica sanguínea
+T9	PROCEDIMIENTO 937 966	colocación de vendaje en ocho
+T10	PROCEDIMIENTO 2041 2063	utrasonografía-Doppler
+T11	PROCEDIMIENTO 1651 1669	eco-Doppler venoso
+T12	PROCEDIMIENTO 1171 1203	auscultación cardiorrespiratoria
+T13	PROCEDIMIENTO 824 854	tomografía axial computarizada
+T14	PROCEDIMIENTO 584 610	estudio radiológico simple
+T15	PROCEDIMIENTO 2026 2038	radiografías
+T16	PROCEDIMIENTO 1939 1963	rehabilitación funcional

@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 456 468	TC de órbita
+T2	PROCEDIMIENTO 886 904	exploración física
+T3	PROCEDIMIENTO 1002 1020	exploración física
+T4	PROCEDIMIENTO 1358 1378	palpación del cuello
+T5	PROCEDIMIENTO 1507 1539	palpación de los huecos axilares
+T6	PROCEDIMIENTO 1545 1619	exploración pulmonar, cardiaca, abdominal y de las extremidades inferiores
+T7	PROCEDIMIENTO 1696 1705	hemograma
+T8	PROCEDIMIENTO 1710 1732	estudio de coagulación
+T9	PROCEDIMIENTO 1792 1811	gasometría arterial
+T10	PROCEDIMIENTO 1835 1855	radiografía de tórax
+T11	PROCEDIMIENTO 1933 1952	TC cérvico-torácica
+T12	PROCEDIMIENTO 2251 2270	TC cráneo-orbitaria
+T13	PROCEDIMIENTO 2394 2474	punción aspiración con aguja fina de la masa adenopática latero-cervical derecha
+T14	PROCEDIMIENTO 1766 1786	marcadores tumorales
+T15	PROCEDIMIENTO 672 681	anamnesis
+T16	PROCEDIMIENTO 1737 1754	perfil bioquímico

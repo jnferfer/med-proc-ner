@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 1078 1105	radiografía simple de tórax
+T2	PROCEDIMIENTO 1331 1384	tomografía axial computerizada (TAC) tóraco-abdominal
+T3	PROCEDIMIENTO 72 84	radioterapia
+T4	PROCEDIMIENTO 1160 1182	radiografía de abdomen
+T5	PROCEDIMIENTO 728 777	exploración neurológica, cardiológica y abdominal
+T6	PROCEDIMIENTO 875 893	electrocardiograma
+T7	PROCEDIMIENTO 898 907	hemograma
+T8	PROCEDIMIENTO 937 959	estudio de coagulación
+T9	PROCEDIMIENTO 977 986	ionograma
+T10	PROCEDIMIENTO 1018 1053	pruebas de función renal y hepática
+T11	PROCEDIMIENTO 912 932	fórmula leucocitaria
+T12	PROCEDIMIENTO 992 1011	troponinas seriadas
+T13	PROCEDIMIENTO 601 619	estudios invasivos
+T14	PROCEDIMIENTO 1363 1366	TAC

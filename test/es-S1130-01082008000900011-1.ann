@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 902 905	USE
+T2	PROCEDIMIENTO 69 82	Ecoendoscopia
+T3	PROCEDIMIENTO 983 1002	sedación consciente
+T4	PROCEDIMIENTO 2609 2654	estudio citológico con la tinción Papanicolau
+T5	PROCEDIMIENTO 1048 1107	ecoendoscopio lineal Pentax EG3830UX acoplado a un ecógrafo
+T6	PROCEDIMIENTO 2670 2687	examen citológico
+T7	PROCEDIMIENTO 1099 1107	ecógrafo
+T8	PROCEDIMIENTO 404 429	endoscopia digestiva alta
+T9	PROCEDIMIENTO 1314 1338	estudio ultrasonográfico
+T10	PROCEDIMIENTO 576 604	biopsias mediante endoscopia
+T11	PROCEDIMIENTO 1517 1553	estudio ecográfico con doppler color
+T12	PROCEDIMIENTO 746 764	imagen endoscópica
+T13	PROCEDIMIENTO 776 795	estudio histológico
+T14	PROCEDIMIENTO 878 891	ecoendoscopia
+T15	PROCEDIMIENTO 893 896	USE
+T16	PROCEDIMIENTO 1842 1855	gastroscópica
+T17	PROCEDIMIENTO 1859 1878	ecoendoscópicamente
+T18	PROCEDIMIENTO 2291 2312	jeringa de aspiración
+T19	PROCEDIMIENTO 1645 1652	punción
+T20	PROCEDIMIENTO 1665 1672	punción
+T21	PROCEDIMIENTO 803 811	biopsias
+T22	PROCEDIMIENTO 1484 1502	lesión a puncionar
+T23	PROCEDIMIENTO 1906 1925	puncionar la lesión
+T24	PROCEDIMIENTO 2163 2254	avance de la aguja con el fin de extraer la mayor cantidad de material posible de la lesión
+T25	PROCEDIMIENTO 2510 2531	tinción de Diff-Quick

@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 60 76	trasplante renal
+T2	PROCEDIMIENTO 1568 1584	reposo digestivo
+T3	PROCEDIMIENTO 1586 1635	antibioterapia de amplio espectro vía intravenosa
+T4	PROCEDIMIENTO 2473 2498	colangiografía trans-Kehr
+T5	PROCEDIMIENTO 736 765	radiografía simple de abdomen
+T6	PROCEDIMIENTO 2077 2151	resección intestinal con reconstrucción mediante anastomosis laterolateral
+T7	PROCEDIMIENTO 851 885	tomografía computerizada abdominal
+T8	PROCEDIMIENTO 2153 2168	colecistectomía
+T9	PROCEDIMIENTO 2171 2196	exploración de vía biliar
+T10	PROCEDIMIENTO 2244 2258	colangiografía
+T11	PROCEDIMIENTO 2260 2330	extrayendo el cálculo y dejando un drenaje de Kehr de 4 mm en colédoco
+T12	PROCEDIMIENTO 1786 1809	intervención quirúrgica
+T13	PROCEDIMIENTO 2671 2691	enzimas pancreáticas
+T14	PROCEDIMIENTO 636 645	analítica
+T15	PROCEDIMIENTO 329 340	exploración
+T18	PROCEDIMIENTO 507 516	palpación

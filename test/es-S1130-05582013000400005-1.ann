@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1932 1978	radioterapia con reconstrucción tridimensional
+T2	PROCEDIMIENTO 675 687	cervicotomía
+T3	PROCEDIMIENTO 2005 2018	quimioterapia
+T4	PROCEDIMIENTO 693 726	ligar la arteria carótida externa
+T5	PROCEDIMIENTO 808 910	biopsia por congelación intraoperatoria de un ganglio hallado aisladamente en la bifurcación carotídea
+T6	PROCEDIMIENTO 235 253	biopsia quirúrgica
+T7	PROCEDIMIENTO 314 344	tomografía axial computarizada
+T8	PROCEDIMIENTO 937 954	ligadura arterial
+T9	PROCEDIMIENTO 346 349	TAC
+T10	PROCEDIMIENTO 1024 1044	rinotomía horizontal
+T11	PROCEDIMIENTO 1049 1071	sección de la columela
+T12	PROCEDIMIENTO 1074 1109	sección vertical del labio superior
+T13	PROCEDIMIENTO 1111 1152	Se resecó el tabique óseo y cartilaginoso
+T14	PROCEDIMIENTO 570 573	TAC
+T15	PROCEDIMIENTO 1219 1312	resección en bloque del septum con el tumor que se originaba en el cornete inferior izquierdo
+T16	PROCEDIMIENTO 1328 1337	resección
+T17	PROCEDIMIENTO 1500 1530	Se suturó por planos la herida
+T18	PROCEDIMIENTO 1712 1731	Anatomía Patológica
+T19	PROCEDIMIENTO 1833 1853	Resección incompleta
+T20	PROCEDIMIENTO 1539 1591	taponamiento con "pack" de gasa del lecho quirúrgico
+T24	PROCEDIMIENTO 457 495	se palpaban adenomegalias en el cuello

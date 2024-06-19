@@ -1,0 +1,9 @@
+T1	PROCEDIMIENTO 262 280	exploración física
+T2	PROCEDIMIENTO 354 375	auscultación pulmonar
+T3	PROCEDIMIENTO 383 402	analítica sanguínea
+T4	PROCEDIMIENTO 526 546	radiografía de tórax
+T5	PROCEDIMIENTO 715 727	TAC de tórax
+T6	PROCEDIMIENTO 1095 1118	baciloscopias de esputo
+T7	PROCEDIMIENTO 1141 1158	cultivo de esputo
+T8	PROCEDIMIENTO 1196 1205	serología
+T9	PROCEDIMIENTO 1412 1420	cultivos

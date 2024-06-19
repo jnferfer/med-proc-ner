@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 315 335	palpación el abdomen
+T2	PROCEDIMIENTO 599 618	ecografía abdominal
+T3	PROCEDIMIENTO 1165 1177	TC abdominal
+T4	PROCEDIMIENTO 1231 1240	ecografía
+T5	PROCEDIMIENTO 1497 1522	ecografía intraoperatoria
+T6	PROCEDIMIENTO 1619 1678	punción, aspiración y esterilización con salino hipertónico
+T7	PROCEDIMIENTO 1689 1704	colecistectomía
+T8	PROCEDIMIENTO 1707 1720	coledocotomía
+T9	PROCEDIMIENTO 377 386	analítica
+T10	PROCEDIMIENTO 1745 1754	analítica
+T11	PROCEDIMIENTO 201 212	exploración

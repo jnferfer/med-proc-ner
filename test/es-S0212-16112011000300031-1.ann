@@ -1,0 +1,26 @@
+T1	PROCEDIMIENTO 284 293	hemograma
+T2	PROCEDIMIENTO 296 312	función tiroidea
+T3	PROCEDIMIENTO 408 443	determinación de parásitos en heces
+T4	PROCEDIMIENTO 1609 1644	colocación de sonda de alimentación
+T5	PROCEDIMIENTO 594 619	endoscopia digestiva alta
+T6	PROCEDIMIENTO 621 624	EDA
+T7	PROCEDIMIENTO 1735 1752	nutrición enteral
+T8	PROCEDIMIENTO 669 685	biopsia duodenal
+T9	PROCEDIMIENTO 1754 1756	NE
+T10	PROCEDIMIENTO 704 733	estudio gastroesofagoduodenal
+T11	PROCEDIMIENTO 918 952	angioTAC de la arteria mesentérica
+T12	PROCEDIMIENTO 1996 2025	estudio esofagogastroduodenal
+T13	PROCEDIMIENTO 2219 2238	duodenoyeyunostomía
+T14	PROCEDIMIENTO 2361 2389	tratamiento con procinéticos
+T15	PROCEDIMIENTO 2634 2653	duodenoyeyunostomía
+T16	PROCEDIMIENTO 2526 2542	estudio baritado
+T17	PROCEDIMIENTO 396 406	serologías
+T18	PROCEDIMIENTO 1342 1367	modificaciones dietéticas
+T19	PROCEDIMIENTO 1369 1387	medidas posturales
+T20	PROCEDIMIENTO 1406 1417	suplementos
+T21	PROCEDIMIENTO 2840 2865	suplementos nutricionales
+T22	PROCEDIMIENTO 255 273	estudio bioquímico
+T23	PROCEDIMIENTO 2180 2202	tratamiento quirúrgico
+T24	PROCEDIMIENTO 1319 1337	manejo nutricional
+T27	PROCEDIMIENTO 2267 2274	cirugía
+T29	PROCEDIMIENTO 2413 2425	intervención

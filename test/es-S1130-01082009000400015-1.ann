@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 46 66	gastrectomía parcial
+T2	PROCEDIMIENTO 111 145	reconstrucción de tipo Billroth II
+T3	PROCEDIMIENTO 360 379	ecografía abdominal
+T4	PROCEDIMIENTO 697 700	TAC
+T5	PROCEDIMIENTO 706 709	RMN
+T6	PROCEDIMIENTO 742 767	endoscopia digestiva alta
+T7	PROCEDIMIENTO 943 962	estudio histológico
+T8	PROCEDIMIENTO 970 991	biopsias endoscópicas
+T9	PROCEDIMIENTO 1042 1060	gastrectomía total
+T10	PROCEDIMIENTO 1063 1090	anastomosis esófago-yeyunal
+T14	PROCEDIMIENTO 1009 1036	intervenido quirúrgicamente

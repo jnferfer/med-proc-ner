@@ -1,0 +1,32 @@
+T1	PROCEDIMIENTO 3516 3536	estudio microscópico
+T2	PROCEDIMIENTO 4737 4766	análisis químico-toxicológico
+T3	PROCEDIMIENTO 1653 1670	autopsia judicial
+T4	PROCEDIMIENTO 436 507	herida contusa en región ciliar derecha que es reparada mediante sutura
+T5	PROCEDIMIENTO 4872 4884	barbitúricos
+T6	PROCEDIMIENTO 4886 4901	benzodiacepinas
+T7	PROCEDIMIENTO 4903 4914	analgésicos
+T8	PROCEDIMIENTO 5443 5465	anticoagulantes orales
+T9	PROCEDIMIENTO 3725 3741	tinción de Perls
+T10	PROCEDIMIENTO 4964 4978	antidepresivos
+T11	PROCEDIMIENTO 4980 5003	fenotiacinas y análogos
+T12	PROCEDIMIENTO 1481 1539	herida suturada con cuatro puntos en región ciliar derecha
+T13	PROCEDIMIENTO 5005 5019	antidiabéticos
+T14	PROCEDIMIENTO 5039 5071	antiinflamatorios no esteroideos
+T15	PROCEDIMIENTO 5073 5083	diuréticos
+T16	PROCEDIMIENTO 5085 5099	bases xánticas
+T17	PROCEDIMIENTO 5101 5119	antiparkinsonianos
+T18	PROCEDIMIENTO 5121 5137	antihistamínicos
+T19	PROCEDIMIENTO 5139 5156	antihipertensivos
+T20	PROCEDIMIENTO 5158 5185	antiagregantes plaquetarios
+T21	PROCEDIMIENTO 3955 3958	TAC
+T22	PROCEDIMIENTO 3964 3972	autopsia
+T23	PROCEDIMIENTO 5187 5197	benzamidas
+T24	PROCEDIMIENTO 856 883	TAC craneal (sin contraste)
+T25	PROCEDIMIENTO 5199 5228	opiáceos derivados de morfina
+T26	PROCEDIMIENTO 1104 1130	valoración neuroquirúrgica
+T27	PROCEDIMIENTO 2314 2334	estudio macroscópico
+T28	PROCEDIMIENTO 2248 2274	encéfalo se fija en formol
+T29	PROCEDIMIENTO 3892 3912	estudio microscópico
+T30	PROCEDIMIENTO 3490 3511	análisis microscópico
+T31	PROCEDIMIENTO 1789 1812	hallazgos macroscópicos
+T32	PROCEDIMIENTO 4950 4961	salicilatos

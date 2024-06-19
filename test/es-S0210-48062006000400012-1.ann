@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1868 1881	examen físico
+T2	PROCEDIMIENTO 2134 2151	anestesia general
+T3	PROCEDIMIENTO 2167 2195	incisión escrotal transversa
+T4	PROCEDIMIENTO 901 929	resonancia nuclear magnética
+T5	PROCEDIMIENTO 931 934	RNM
+T6	PROCEDIMIENTO 1216 1229	examen físico
+T7	PROCEDIMIENTO 3319 3369	bloqueo del nervio ilioinguinal del lado izquierdo
+T8	PROCEDIMIENTO 3050 3075	estudio anatomopatológico
+T9	PROCEDIMIENTO 483 501	estudio ecográfico
+T10	PROCEDIMIENTO 2843 2877	ligadura con hemostasia exhaustiva
+T11	PROCEDIMIENTO 2043 2052	resección
+T12	PROCEDIMIENTO 699 706	doppler
+T13	PROCEDIMIENTO 1540 1570	se palpan dos testículos sanos
+T14	PROCEDIMIENTO 3083 3156	se realiza bolsillo en espacio subdartos donde se aloja el testículo sano
+T15	PROCEDIMIENTO 3106 3226	espacio subdartos donde se aloja el testículo sano y es fijado con material de sutura orgánico absorbible (poliglactina)
+T16	PROCEDIMIENTO 3269 3300	Se realiza un cierre por planos
+T17	PROCEDIMIENTO 3544 3563	cortes histológicos
+T18	PROCEDIMIENTO 2016 2052	cirugía para exploración y resección
+T19	PROCEDIMIENTO 2211 2250	disección por planos hasta la albugínea
+T21	PROCEDIMIENTO 3498 3507	patología

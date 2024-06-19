@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 1074 1120	estudio histológico de las biopsias duodenales
+T2	PROCEDIMIENTO 2874 2913	potenciales evocados somato-sensoriales
+T4	PROCEDIMIENTO 3001 3036	estudio del líquido céfalo-raquídeo
+T5	PROCEDIMIENTO 3038 3041	LCR
+T6	PROCEDIMIENTO 1473 1489	biopsia duodenal
+T7	PROCEDIMIENTO 3098 3117	análisis serológico
+T8	PROCEDIMIENTO 2000 2030	exploración de pares craneales
+T9	PROCEDIMIENTO 280 298	exploración física
+T10	PROCEDIMIENTO 1025 1057	test de absorción de la D-xilosa
+T11	PROCEDIMIENTO 2145 2179	estímulos táctiles en pierna y pie
+T12	PROCEDIMIENTO 4432 4445	neurolépticos
+T13	PROCEDIMIENTO 2410 2438	exploración neuropsicológica
+T14	PROCEDIMIENTO 4503 4506	EEG
+T15	PROCEDIMIENTO 2546 2575	resonancia magnética cerebral
+T16	PROCEDIMIENTO 4600 4616	immunosupresores
+T17	PROCEDIMIENTO 2577 2580	RMN
+T18	PROCEDIMIENTO 2587 2623	tomografía por emisión de positrones
+T19	PROCEDIMIENTO 2625 2628	PET
+T20	PROCEDIMIENTO 2650 2670	electroencefalograma
+T21	PROCEDIMIENTO 2672 2675	EEG
+T22	PROCEDIMIENTO 4733 4746	plasmaféresis
+T23	PROCEDIMIENTO 216 232	dieta sin gluten
+T24	PROCEDIMIENTO 483 499	dieta sin gluten
+T25	PROCEDIMIENTO 1311 1327	dieta sin gluten
+T26	PROCEDIMIENTO 505 549	datos analíticos hematológicos y bioquímicos
+T27	PROCEDIMIENTO 585 603	hormonas tiroideas
+T28	PROCEDIMIENTO 651 682	determinación de grasa en heces
+T29	PROCEDIMIENTO 689 709	análisis serológicos
+T30	PROCEDIMIENTO 3145 3240	estudio de anticuerpos circulantes realizado mediante técnicas de immunofluorescencia indirecta

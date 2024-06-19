@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 1208 1217	anamnesis
+T2	PROCEDIMIENTO 2748 2768	estudio de extensión
+T3	PROCEDIMIENTO 2779 2804	tratamiento con radioyodo
+T4	PROCEDIMIENTO 2814 2854	estudio metabólico con 8,26 mCi de 18FDG
+T5	PROCEDIMIENTO 1309 1327	exploración física
+T6	PROCEDIMIENTO 2856 2877	RM cerebral y pélvica
+T7	PROCEDIMIENTO 2880 2896	gammagrafía ósea
+T8	PROCEDIMIENTO 299 356	lesión se le extirpó mediante rebanado y nitrato de plata
+T9	PROCEDIMIENTO 416 441	estudio anatomopatológico
+T10	PROCEDIMIENTO 3164 3177	tiroidectomía
+T11	PROCEDIMIENTO 1709 1727	ecografía tiroidea
+T12	PROCEDIMIENTO 540 600	se le extirpó mediante exéresis elíptica y bisturí eléctrico
+T13	PROCEDIMIENTO 3347 3369	ablación con radioyodo
+T14	PROCEDIMIENTO 1992 1996	PAAF
+T15	PROCEDIMIENTO 3575 3597	ablación con radioyodo
+T16	PROCEDIMIENTO 2062 2095	tiroidectomía más linfadenectomía
+T17	PROCEDIMIENTO 2126 2149	biopsia intraoperatoria
+T18	PROCEDIMIENTO 949 974	examen inmunohistoquímico
+T19	PROCEDIMIENTO 3876 3879	RCT
+T20	PROCEDIMIENTO 605 616	análisis AP
+T21	PROCEDIMIENTO 443 445	AP
+T22	PROCEDIMIENTO 2189 2223	análisis AP de la pieza quirúrgica
+T23	PROCEDIMIENTO 2642 2675	vaciado del compartimento central
+T24	PROCEDIMIENTO 3124 3137	RCT post-I131
+T25	PROCEDIMIENTO 3821 3863	cuantificación de TG estimulada tras TSHrh
+T29	PROCEDIMIENTO 2935 2947	intervención
+#1	AnnotatorNotes T24	     Rastreo corporal total

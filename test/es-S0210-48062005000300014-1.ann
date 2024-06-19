@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 818 820	TC
+T2	PROCEDIMIENTO 484 502	estudio ecográfico
+T3	PROCEDIMIENTO 751 770	TAC abdominopélvico
+T4	PROCEDIMIENTO 772 780	Rx torax
+T5	PROCEDIMIENTO 782 801	bioquímica hemática
+T6	PROCEDIMIENTO 1436 1468	arteriografía de aorta abdominal
+T7	PROCEDIMIENTO 2057 2068	TC cerebral
+T8	PROCEDIMIENTO 804 813	hemograma
+T9	PROCEDIMIENTO 1486 1584	se cateteriza selectivamente la arteria renal derecha con un catéter angiográfico visceral Cobra 2
+T10	PROCEDIMIENTO 685 705	estudio cistoscópico
+T11	PROCEDIMIENTO 2430 2449	calcio antagonistas
+T12	PROCEDIMIENTO 1353 1375	embolización selectiva
+T13	PROCEDIMIENTO 1381 1468	punción en la arteria femoral común derecha se realiza arteriografía de aorta abdominal
+T14	PROCEDIMIENTO 2422 2427	IECAS
+T15	PROCEDIMIENTO 1630 1715	emboliza la arteria que irriga al tumor con partículas de alcohol de polivinilo (PVA)
+T16	PROCEDIMIENTO 345 363	exploración física
+T17	PROCEDIMIENTO 1270 1285	cirugía radical

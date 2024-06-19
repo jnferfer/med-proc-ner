@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 807 836	craneotomía frontal izquierda
+T2	PROCEDIMIENTO 79 92	histerectomía
+T3	PROCEDIMIENTO 2027 2030	TAC
+T4	PROCEDIMIENTO 1361 1363	RM
+T5	PROCEDIMIENTO 955 957	TC
+T6	PROCEDIMIENTO 2230 2263	tratamiento conservador paliativo
+T7	PROCEDIMIENTO 290 308	exploración física
+T8	PROCEDIMIENTO 1074 1123	tratamiento coadyuvante con radio y quimioterapia
+T9	PROCEDIMIENTO 1631 1691	craneotomía frontal derecha con resección completa del tumor
+T10	PROCEDIMIENTO 429 466	tomografía computarizada (TC) craneal
+T11	PROCEDIMIENTO 1755 1757	TC
+T12	PROCEDIMIENTO 594 614	resonancia magnética
+T13	PROCEDIMIENTO 616 618	RM
+T14	PROCEDIMIENTO 1875 1899	radioterapia coadyuvante
+T15	PROCEDIMIENTO 1928 1941	quimioterapia
+T16	PROCEDIMIENTO 771 793	tratamiento quirúrgico
+T17	PROCEDIMIENTO 877 896	informe histológico
+T18	PROCEDIMIENTO 1552 1570	lesión intervenida
+T19	PROCEDIMIENTO 1335 1342	cirugía
+T20	PROCEDIMIENTO 1614 1621	cirugía
+T21	PROCEDIMIENTO 2010 2017	cirugía
+T22	PROCEDIMIENTO 2390 2397	cirugía
+T23	PROCEDIMIENTO 2280 2298	estudios de imagen

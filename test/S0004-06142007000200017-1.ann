@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1390 1410	Radiografía de tórax
+T2	PROCEDIMIENTO 1469 1510	TAC toraco-abdomino-pélvico con contraste
+T3	PROCEDIMIENTO 1766 1785	anatomía patológica
+T4	PROCEDIMIENTO 765 775	bioquímica
+T5	PROCEDIMIENTO 207 216	ecografía
+T6	PROCEDIMIENTO 951 978	ecografía con flujo Doppler
+T7	PROCEDIMIENTO 481 499	exploración física
+T8	PROCEDIMIENTO 778 787	hemograma
+T9	PROCEDIMIENTO 753 763	hemostasia
+T10	PROCEDIMIENTO 1676 1711	orquiectomía bilateral vía inguinal
+T11	PROCEDIMIENTO 1726 1758	tratamiento hormonal sustitutivo
+T12	PROCEDIMIENTO 2425 2438	quimioterapia

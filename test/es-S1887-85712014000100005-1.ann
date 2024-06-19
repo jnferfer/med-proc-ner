@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 1042 1051	hemograma
+T2	PROCEDIMIENTO 1542 1587	RM encefálica con resonancia Philips de 1,5 T
+T3	PROCEDIMIENTO 1402 1431	oclusión monocular alternante
+T4	PROCEDIMIENTO 1065 1087	estudio de coagulación
+T5	PROCEDIMIENTO 1089 1116	radiografía simple de tórax
+T6	PROCEDIMIENTO 2039 2058	anticogulación oral
+T7	PROCEDIMIENTO 1119 1137	electrocardiograma
+T8	PROCEDIMIENTO 1173 1210	tomografía computerizada (TC) craneal
+T9	PROCEDIMIENTO 1199 1201	TC
+T10	PROCEDIMIENTO 2161 2186	tratamiento rehabilitador
+T11	PROCEDIMIENTO 1888 1904	secuencias Flair
+T12	PROCEDIMIENTO 1053 1063	bioquímica
+T13	PROCEDIMIENTO 537 548	exploración

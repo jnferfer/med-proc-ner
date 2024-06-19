@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1346 1349	TAC
+T2	PROCEDIMIENTO 892 922	tomografía axial computerizada
+T3	PROCEDIMIENTO 924 927	TAC
+T4	PROCEDIMIENTO 294 303	hemograma
+T5	PROCEDIMIENTO 317 339	pruebas de coagulación
+T6	PROCEDIMIENTO 1652 1677	drenaje de ambos músculos
+T7	PROCEDIMIENTO 388 400	hemocultivos
+T8	PROCEDIMIENTO 1092 1115	tratamiento antibiótico
+T9	PROCEDIMIENTO 1683 1700	discectomía L5-S1
+T10	PROCEDIMIENTO 467 499	estudio serológico para Brucella
+T11	PROCEDIMIENTO 1781 1804	tratamiento antibiótico
+T12	PROCEDIMIENTO 1237 1286	drenaje transcutáneo de las colecciones del psoas
+T13	PROCEDIMIENTO 305 315	bioquímica
+T14	PROCEDIMIENTO 342 352	radiología
+T15	PROCEDIMIENTO 848 863	signo del psoas
+T16	PROCEDIMIENTO 509 524	Rosa de Bengala
+T17	PROCEDIMIENTO 536 553	sero-aglutinación
+T18	PROCEDIMIENTO 573 591	antibrucela-coombs
+T19	PROCEDIMIENTO 1992 1999	cirugía
+T20	PROCEDIMIENTO 784 795	exploración

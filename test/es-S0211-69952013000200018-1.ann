@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 127 147	oxígeno domiciliario
+T2	PROCEDIMIENTO 376 399	tratamiento antibiótico
+T3	PROCEDIMIENTO 402 425	curas de úlceras mixtas
+T4	PROCEDIMIENTO 451 469	exploración física
+T5	PROCEDIMIENTO 613 632	analítica en sangre
+T6	PROCEDIMIENTO 979 1002	tratamiento antibiótico
+T7	PROCEDIMIENTO 1094 1117	tratamiento antibiótico
+T8	PROCEDIMIENTO 1605 1614	anamnesis
+T9	PROCEDIMIENTO 1700 1712	sueroterapia
+T10	PROCEDIMIENTO 1744 1759	ecografía renal
+T11	PROCEDIMIENTO 1821 1841	electroencefalograma
+T12	PROCEDIMIENTO 1843 1846	EEG
+T13	PROCEDIMIENTO 2005 2044	tomografía axial computarizada cerebral
+T14	PROCEDIMIENTO 2276 2342	hemodiálisis urgente a través de catéter en vena femoral izquierda
+T15	PROCEDIMIENTO 2535 2553	sesión de diálisis
+T16	PROCEDIMIENTO 2645 2663	sesión de diálisis
+T17	PROCEDIMIENTO 2803 2815	hemodiálisis
+T18	PROCEDIMIENTO 2897 2900	EEG
+T19	PROCEDIMIENTO 2921 2929	diálisis
+T20	PROCEDIMIENTO 840 874	cultivo del exudado de las úlceras
+T21	PROCEDIMIENTO 2477 2488	antibiótico
+T22	PROCEDIMIENTO 71 79	tiazidas
+T23	PROCEDIMIENTO 58 68	sulfamidas
+T24	PROCEDIMIENTO 3011 3019	diálisis
+T25	PROCEDIMIENTO 1257 1268	antibiótico

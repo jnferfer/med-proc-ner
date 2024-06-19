@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 423 439	examen extraoral
+T2	PROCEDIMIENTO 561 577	examen intraoral
+T3	PROCEDIMIENTO 757 774	ortopantomografía
+T4	PROCEDIMIENTO 1386 1403	anestesia general
+T5	PROCEDIMIENTO 1419 1437	hemi-maxillectomia
+T6	PROCEDIMIENTO 2009 2012	TAC
+T7	PROCEDIMIENTO 1683 1703	análisis histológico
+T8	PROCEDIMIENTO 946 994	elemento 2.8 y biopsia de los tejidos adyacentes
+T9	PROCEDIMIENTO 2049 2058	resección
+T10	PROCEDIMIENTO 2508 2517	resección
+T11	PROCEDIMIENTO 1201 1254	tomografía axial computarizada con programa Dentascan
+T12	PROCEDIMIENTO 1802 1824	tratamiento porotésico
+T13	PROCEDIMIENTO 2191 2269	prótesis de obturación palatina era mucosoportada y dento-retenida con ganchos
+T14	PROCEDIMIENTO 2790 2818	reconstrucción con implantes
+T15	PROCEDIMIENTO 731 774	análisis radiográfico con ortopantomografía
+T16	PROCEDIMIENTO 931 958	extracción del elemento 2.8
+T17	PROCEDIMIENTO 1161 1185	diagnóstico radiográfico
+T18	PROCEDIMIENTO 1938 1961	intervención quirúrgica
+T19	PROCEDIMIENTO 482 491	palpación
+T20	PROCEDIMIENTO 694 703	palpación
+T21	PROCEDIMIENTO 1846 1888	se realizaron impresiones de los maxilares
+T22	PROCEDIMIENTO 2137 2185	correcto posicionamiento de la prótesis palatina
+T24	PROCEDIMIENTO 1838 1845	cirugía
+T25	PROCEDIMIENTO 1089 1108	informe histológico

@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 445 462	fibrogastroscopia
+T2	PROCEDIMIENTO 465 477	colonoscopia
+T3	PROCEDIMIENTO 620 661	transfusión de 5 concentrados de hematíes
+T4	PROCEDIMIENTO 791 808	fibrogastroscopia
+T5	PROCEDIMIENTO 811 823	colonoscopia
+T6	PROCEDIMIENTO 913 950	expansión de volumen con cristaloides
+T7	PROCEDIMIENTO 1022 1112	arteriografía vía transfemoral de tronco celiaco y arteria mesentérica superior e inferior
+T8	PROCEDIMIENTO 1222 1276	cateterización y embolización selectiva con microcoils
+T9	PROCEDIMIENTO 1504 1527	laparotomía exploradora
+T10	PROCEDIMIENTO 1818 1878	resección intestinal segmentaria de 20 centímetros de yeyuno
+T11	PROCEDIMIENTO 1913 1931	radiografía simple
+T12	PROCEDIMIENTO 2171 2186	politransfusión
+T13	PROCEDIMIENTO 2377 2396	anatomía patológica
+T14	PROCEDIMIENTO 1358 1467	identificación del segmento yeyunal patológico mediante la administración intraoperatoria de azul de metileno
+T15	PROCEDIMIENTO 1583 1648	Se administra azul de metileno (0,5 ml) a través del microcatéter
+T16	PROCEDIMIENTO 1279 1404	se mantiene in situ el microcatéter supraselectivo (2.7 Fr) para una posterior identificación del segmento yeyunal patológico
+T17	PROCEDIMIENTO 1881 1907	anastomosis latero-lateral
+T18	PROCEDIMIENTO 953 995	transfusión de 11 concentrados de hematíes
+T19	PROCEDIMIENTO 292 310	exploración física
+T20	PROCEDIMIENTO 319 328	Analítica

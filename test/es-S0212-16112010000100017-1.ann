@@ -1,0 +1,31 @@
+T1	PROCEDIMIENTO 2262 2277	drenaje pleural
+T2	PROCEDIMIENTO 2043 2063	nutrición parenteral
+T3	PROCEDIMIENTO 3309 3324	drenaje pleural
+T4	PROCEDIMIENTO 2065 2067	NP
+T5	PROCEDIMIENTO 2355 2364	ecografía
+T6	PROCEDIMIENTO 1746 1761	drenaje pleural
+T7	PROCEDIMIENTO 164 188	metastasectomía hepática
+T8	PROCEDIMIENTO 3468 3532	nutrición enteral (NE) por vía oral con fórmula exenta de grasas
+T9	PROCEDIMIENTO 529 544	drenaje pleural
+T10	PROCEDIMIENTO 3487 3489	NE
+T11	PROCEDIMIENTO 238 264	toracocentesis evacuadoras
+T12	PROCEDIMIENTO 2444 2513	urokinasa durante dos días consecutivos por el tubo de toracocentesis
+T13	PROCEDIMIENTO 3769 3771	NE
+T14	PROCEDIMIENTO 867 883	drenaje torácico
+T15	PROCEDIMIENTO 937 967	soporte nutricional parenteral
+T16	PROCEDIMIENTO 4124 4126	NP
+T17	PROCEDIMIENTO 850 864	dieta absoluta
+T18	PROCEDIMIENTO 1612 1645	reposo el tracto gastrointestinal
+T19	PROCEDIMIENTO 3439 3457	alimentación mixta
+T20	PROCEDIMIENTO 4171 4186	drenaje pleural
+T21	PROCEDIMIENTO 4187 4230	se retiró el tubo de toracocentesis y la NP
+T22	PROCEDIMIENTO 1404 1422	Historia dietética
+T23	PROCEDIMIENTO 2967 2977	bioquímica
+T24	PROCEDIMIENTO 2186 2200	oligoelementos
+T25	PROCEDIMIENTO 1794 1865	necesidades calóricas estimadas mediante la ecuación de Harris-Benedict
+T26	PROCEDIMIENTO 2097 2108	aminoácidos
+T27	PROCEDIMIENTO 2136 2153	lípidos (MCT/LCT)
+T28	PROCEDIMIENTO 2174 2183	vitaminas
+T29	PROCEDIMIENTO 3534 3549	Clinutren Fruit
+T30	PROCEDIMIENTO 4015 4025	aceite MCT
+T37	PROCEDIMIENTO 427 443	radiológicamente

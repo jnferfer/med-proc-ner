@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 1719 1722	TAC
+T2	PROCEDIMIENTO 1109 1121	RMN cervical
+T3	PROCEDIMIENTO 3684 3687	RMN
+T4	PROCEDIMIENTO 1815 1850	angiografía de troncos supraórticos
+T5	PROCEDIMIENTO 3730 3755	exéresis de la adenopatía
+T6	PROCEDIMIENTO 3763 3783	análisis histológico
+T7	PROCEDIMIENTO 2498 2538	fijación instrumentada occipito-cervical
+T8	PROCEDIMIENTO 3835 3848	braquiterapia
+T9	PROCEDIMIENTO 4132 4145	traqueostomía
+T10	PROCEDIMIENTO 4672 4734	quimioterapia siguiendo un esquema de adriamicina + ifosfamida
+T11	PROCEDIMIENTO 2965 3007	atornillado transpedicular de C2 izquierdo
+T12	PROCEDIMIENTO 3072 3133	anclando tres tornillos en la escama occipital bilateralmente
+T13	PROCEDIMIENTO 3162 3234	atornillado en masa lateral de C3 izquierda y masa lateral derecha de C4
+T14	PROCEDIMIENTO 3490 3502	radioterapia
+T15	PROCEDIMIENTO 3337 3348	radiografía
+T16	PROCEDIMIENTO 1990 2053	resección subtotal de dicha tumoración por vía cervical lateral
+T17	PROCEDIMIENTO 2395 2404	resección
+T18	PROCEDIMIENTO 3926 3949	intervención quirúrgica
+T19	PROCEDIMIENTO 4615 4638	intervención quirúrgica
+T20	PROCEDIMIENTO 903 912	palpación
+T21	PROCEDIMIENTO 733 744	Exploración
+T22	PROCEDIMIENTO 1027 1045	analítica completa
+T23	PROCEDIMIENTO 2077 2100	diagnóstico histológico
+T24	PROCEDIMIENTO 3252 3269	exéresis subtotal
+T25	PROCEDIMIENTO 4044 4110	abordaje transcervical lateral suprahioideo con resección subtotal
+T27	PROCEDIMIENTO 250 276	intervenciones quirúrgicas
+T29	PROCEDIMIENTO 4536 4552	radiológicamente

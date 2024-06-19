@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1023 1044	radiografía de Waters
+T2	PROCEDIMIENTO 1280 1310	tomografía axial computerizada
+T3	PROCEDIMIENTO 1951 1978	corticoides intralesionales
+T4	PROCEDIMIENTO 3076 3105	infiltraciones de corticoides
+T5	PROCEDIMIENTO 3343 3370	tratamiento con corticoides
+T6	PROCEDIMIENTO 1765 1783	anestesia regional
+T7	PROCEDIMIENTO 1807 1919	bloqueo del nervio maxilar superior izquierdo a través del agujero palatino posterior según la técnica de Carrea
+T8	PROCEDIMIENTO 2538 2555	anestesia general
+T9	PROCEDIMIENTO 208 221	examen facial
+T10	PROCEDIMIENTO 439 452	examen ocular
+T11	PROCEDIMIENTO 480 492	examen bucal
+T12	PROCEDIMIENTO 940 959	rinoscopia anterior
+T13	PROCEDIMIENTO 2842 2861	anatomía patológica
+T14	PROCEDIMIENTO 2521 2614	enucleación bajo anestesia general mediante un abordaje bucal a través del vestíbulo superior
+T15	PROCEDIMIENTO 3143 3154	enucleación
+T16	PROCEDIMIENTO 2340 2354	infiltraciones
+T17	PROCEDIMIENTO 726 735	palpación
+T18	PROCEDIMIENTO 2736 2764	enucleada de la cavidad ósea
+T19	PROCEDIMIENTO 3203 3215	radiográfico
+T20	PROCEDIMIENTO 2770 2793	diagnóstico histológico

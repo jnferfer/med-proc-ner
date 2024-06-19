@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1482 1552	laparotomía hasta la sínfisis del pubis, se revisa de nuevo el abdomen
+T2	PROCEDIMIENTO 2056 2068	colonoscopia
+T3	PROCEDIMIENTO 2124 2147	se cierra la colostomía
+T4	PROCEDIMIENTO 1609 1640	se diseca el espacio de Retzius
+T5	PROCEDIMIENTO 1643 1713	mediante control radiológico, se palpa la cara anterior de la próstata
+T6	PROCEDIMIENTO 2296 2308	uretrografía
+T7	PROCEDIMIENTO 412 441	radiografía simple de abdomen
+T8	PROCEDIMIENTO 640 670	se pone un catéter suprapúbico
+T9	PROCEDIMIENTO 695 706	laparotomía
+T10	PROCEDIMIENTO 763 783	colostomía izquierda
+T11	PROCEDIMIENTO 817 829	uretrografía
+T12	PROCEDIMIENTO 1094 1106	colonoscopia
+T13	PROCEDIMIENTO 1158 1223	se introduce un uretrotomo endoscópico hasta la uretra prostática
+T14	PROCEDIMIENTO 1787 1883	con una pinza de anillo y siempre bajo control radiológico se consigue agarrar y extraer la bala
+T15	PROCEDIMIENTO 2353 2371	se retira la sonda
+T16	PROCEDIMIENTO 620 627	sondaje
+T17	PROCEDIMIENTO 2511 2522	ultrasonido
+T18	PROCEDIMIENTO 1373 1410	vejiga y por último se deja una sonda
+T19	PROCEDIMIENTO 1453 1468	acto quirúrgico
+T20	PROCEDIMIENTO 2178 2197	la sonda se le deja
+T21	PROCEDIMIENTO 1030 1042	intervención

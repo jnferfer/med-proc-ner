@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 877 894	fibrobroncoscopia
+T2	PROCEDIMIENTO 1006 1027	lavado broncoalveolar
+T3	PROCEDIMIENTO 1050 1068	TC toracoabdominal
+T4	PROCEDIMIENTO 297 317	radiografía de tórax
+T5	PROCEDIMIENTO 1188 1259	punción-aspiración con aguja fina guiada por TC de la masa mediastínica
+T6	PROCEDIMIENTO 421 439	análisis de sangre
+T7	PROCEDIMIENTO 455 469	toracocentesis
+T8	PROCEDIMIENTO 1333 1345	toracoscopia
+T9	PROCEDIMIENTO 1350 1376	biopsia pleural y pulmonar
+T10	PROCEDIMIENTO 1380 1420	colocación de un tubo de drenaje pleural
+T11	PROCEDIMIENTO 1549 1584	PCR para Mycobacterium tuberculosis
+T12	PROCEDIMIENTO 1604 1641	biopsia pulmonar y negativa en pleura
+T13	PROCEDIMIENTO 830 859	intradermoreacción de Mantoux
+T14	PROCEDIMIENTO 1880 1889	necropsia
+T15	PROCEDIMIENTO 1425 1444	anatomia patológica
+T16	PROCEDIMIENTO 773 782	citología
+T17	PROCEDIMIENTO 788 795	cultivo
+T18	PROCEDIMIENTO 934 958	tinción de Ziehl-Neelsen
+T19	PROCEDIMIENTO 934 1027	tinción de Ziehl-Neelsen y el cultivo en medio de Löwenstein-Jensen del lavado broncoalveolar
+T20	PROCEDIMIENTO 964 1001	cultivo en medio de Löwenstein-Jensen

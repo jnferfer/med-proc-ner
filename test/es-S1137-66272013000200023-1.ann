@@ -1,0 +1,26 @@
+T1	PROCEDIMIENTO 2536 2543	PET-TAC
+T2	PROCEDIMIENTO 1880 1916	tratamiento quimioterápico adyuvante
+T3	PROCEDIMIENTO 2152 2165	RM de columna
+T4	PROCEDIMIENTO 3280 3283	TAC
+T5	PROCEDIMIENTO 259 277	estudio ecográfico
+T6	PROCEDIMIENTO 2254 2270	gammagrafía ósea
+T7	PROCEDIMIENTO 2765 2797	punción con aguja fina vertebral
+T8	PROCEDIMIENTO 2273 2280	PET-TAC
+T9	PROCEDIMIENTO 3695 3791	nefrostomía percutánea derecha con colocación de un catéter ureteral doble J por vía anterógrada
+T10	PROCEDIMIENTO 2901 2929	biopsia de ganglios mamarios
+T11	PROCEDIMIENTO 428 448	TAC toraco-abdominal
+T12	PROCEDIMIENTO 451 467	gammagrafía ósea
+T13	PROCEDIMIENTO 2450 2460	biopsiaron
+T14	PROCEDIMIENTO 3885 3897	angioplastia
+T15	PROCEDIMIENTO 546 557	ecográficos
+T16	PROCEDIMIENTO 1484 1525	estudio inmunohistoquímico citoplasmático
+T17	PROCEDIMIENTO 804 832	cisto-prostatectomía radical
+T18	PROCEDIMIENTO 837 853	derivación ileal
+T19	PROCEDIMIENTO 398 418	estudio de extensión
+T20	PROCEDIMIENTO 3090 3116	tratamiento quimioterápico
+T21	PROCEDIMIENTO 3236 3262	tratamiento quimioterápico
+T22	PROCEDIMIENTO 921 938	anatomopatológico
+T23	PROCEDIMIENTO 3373 3376	TAC
+T24	PROCEDIMIENTO 587 630	tratamiento quirúrgico mediante RTU vesical
+T26	PROCEDIMIENTO 2010 2021	exploración
+#1	AnnotatorNotes T4	     TAC: tomografía axial computerizada

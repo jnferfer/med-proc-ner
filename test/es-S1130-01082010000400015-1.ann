@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 917 938	análisis macroscópico
+T2	PROCEDIMIENTO 991 1012	análisis microscópico
+T3	PROCEDIMIENTO 177 195	exploración física
+T4	PROCEDIMIENTO 250 262	tacto rectal
+T5	PROCEDIMIENTO 1168 1186	inmunohistoquímica
+T6	PROCEDIMIENTO 1270 1328	inciones para CD34, citoqueratina 20 y citoqueratina AE1-3
+T7	PROCEDIMIENTO 416 441	endoscopia digestiva baja
+T8	PROCEDIMIENTO 603 611	biopsias
+T9	PROCEDIMIENTO 738 774	hemicolectomía derecha laparoscópica
+T10	PROCEDIMIENTO 850 870	estudio de extensión
+T11	PROCEDIMIENTO 563 581	clips hemostáticos
+T12	PROCEDIMIENTO 1551 1572	tratamiento adyuvante
+T13	PROCEDIMIENTO 342 351	analítica
+T14	PROCEDIMIENTO 889 896	cirugía
+T15	PROCEDIMIENTO 1661 1668	cirugía

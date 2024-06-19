@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 1763 1781	análisis de sangre
+T2	PROCEDIMIENTO 1959 1970	ECO doppler
+T3	PROCEDIMIENTO 1973 1982	angio TAC
+T4	PROCEDIMIENTO 2009 2040	biopsias de la tumoración bucal
+T5	PROCEDIMIENTO 3193 3274	ciclo de ERORH (prednisona+etopósido+ dexametasona+ ciclofosfamida + vincristina)
+T6	PROCEDIMIENTO 3455 3477	ciclo de quimioterapia
+T7	PROCEDIMIENTO 3640 3667	tratamiento antirretroviral
+T8	PROCEDIMIENTO 3811 3831	resonancia magnética
+T9	PROCEDIMIENTO 2900 2930	tinción por inmunohistoquímica
+T10	PROCEDIMIENTO 3669 3673	TARV
+T11	PROCEDIMIENTO 637 664	tratamiento antirretroviral
+T12	PROCEDIMIENTO 584 595	carga viral
+T13	PROCEDIMIENTO 2543 2562	informe histológico

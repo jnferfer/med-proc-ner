@@ -1,0 +1,26 @@
+T1	PROCEDIMIENTO 123 127	PAAF
+T2	PROCEDIMIENTO 195 217	parotidectomía parcial
+T3	PROCEDIMIENTO 789 816	radioterapia postoperatoria
+T4	PROCEDIMIENTO 833 840	PET-TAC
+T5	PROCEDIMIENTO 1006 1026	parotidectomía total
+T6	PROCEDIMIENTO 1037 1105	exéresis de las ramas cigomática, bucal y marginal del nervio facial
+T7	PROCEDIMIENTO 1168 1220	reconstrucción inmediata con injerto de nervio sural
+T8	PROCEDIMIENTO 1223 1299	relleno del defecto posparotidectomía con colgajo de fascia temporo-parietal
+T9	PROCEDIMIENTO 1305 1366	biopsias intraoperatorias de los extremos nerviosos resecados
+T10	PROCEDIMIENTO 1444 1458	parotidectomía
+T11	PROCEDIMIENTO 1862 1893	estudio electroneurofisiológico
+T12	PROCEDIMIENTO 2009 2026	electroneurograma
+T13	PROCEDIMIENTO 2192 2280	electromiograma, tanto del músculo orbicular de los ojos como el orbicular de los labios
+T14	PROCEDIMIENTO 1407 1426	anatomía patológica
+T15	PROCEDIMIENTO 236 246	histología
+T16	PROCEDIMIENTO 691 713	ampliación de márgenes
+T17	PROCEDIMIENTO 755 777	ampliación de márgenes
+T18	PROCEDIMIENTO 722 749	radioterapia postoperatoria
+T19	PROCEDIMIENTO 1536 1563	radioterapia postoperatoria
+T21	PROCEDIMIENTO 627 634	cirugía
+T22	PROCEDIMIENTO 1663 1670	cirugía
+T23	PROCEDIMIENTO 321 332	histológico
+T24	PROCEDIMIENTO 1585 1596	histológico
+T25	PROCEDIMIENTO 1834 1846	intervención
+T26	PROCEDIMIENTO 1923 1935	intervención
+T27	PROCEDIMIENTO 2392 2404	intervención

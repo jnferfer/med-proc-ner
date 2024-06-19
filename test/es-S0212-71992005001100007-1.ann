@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 655 664	Hemograma
+T2	PROCEDIMIENTO 2100 2110	Serie ósea
+T3	PROCEDIMIENTO 2475 2494	Ecografía abdominal
+T4	PROCEDIMIENTO 1306 1326	Radiografía de tórax
+T5	PROCEDIMIENTO 1871 1893	Biopsia de médula ósea
+T6	PROCEDIMIENTO 1649 1672	Aspirado de médula ósea
+T7	PROCEDIMIENTO 2280 2309	Inmunoelectroforesis en orina
+T8	PROCEDIMIENTO 1461 1496	Inmunofenotipo en sangre periférica
+T9	PROCEDIMIENTO 392 410	exploración física
+T10	PROCEDIMIENTO 667 694	frotis de sangre periférica
+T11	PROCEDIMIENTO 2842 2906	trasplante autólogo de células progenitoras de sangre periférica
+T12	PROCEDIMIENTO 2931 2978	quimioterapia de inducción con el esquema C-VAD
+T13	PROCEDIMIENTO 972 982	Bioquímica
+T14	PROCEDIMIENTO 1178 1189	Coagulación
+T15	PROCEDIMIENTO 2441 2462	Serología VHB,VHC,VIH
+T16	PROCEDIMIENTO 1549 1563	inmunofenotipo
+T17	PROCEDIMIENTO 1131 1144	Proteinograma
+T18	PROCEDIMIENTO 1295 1304	sedimento
+T20	PROCEDIMIENTO 2152 2181	Inmunoelectroforesis en suero
+T21	PROCEDIMIENTO 2231 2254	Inmunofijación en suero
+T22	PROCEDIMIENTO 1221 1243	Examen básico de orina

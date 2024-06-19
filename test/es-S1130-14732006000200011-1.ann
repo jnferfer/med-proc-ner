@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 513 526	examen físico
+T2	PROCEDIMIENTO 2331 2349	examen histológico
+T3	PROCEDIMIENTO 1394 1424	TAC de tórax, abdomen y pelvis
+T4	PROCEDIMIENTO 940 974	radiografía simple y TAC de cráneo
+T5	PROCEDIMIENTO 1743 1758	anestesia local
+T6	PROCEDIMIENTO 1439 1455	gammagrafía ósea
+T7	PROCEDIMIENTO 304 363	craniectomía+bandas de silicona+fijación ósea con hemoclips
+T8	PROCEDIMIENTO 2313 2326	curetaje óseo
+T9	PROCEDIMIENTO 693 711	examen neurológico
+T10	PROCEDIMIENTO 1129 1132	RMN
+T11	PROCEDIMIENTO 1656 1711	infusión intravenosa continua de 5U/kg/h de Factor VIII
+T12	PROCEDIMIENTO 1822 1845	disección subperióstica
+T13	PROCEDIMIENTO 1770 1810	incisión del "scalp" sobre la tumoración
+T14	PROCEDIMIENTO 2503 2534	se retiró el material de sutura
+T15	PROCEDIMIENTO 1714 1737	Intervención quirúrgica
+T16	PROCEDIMIENTO 247 270	intervención quirúrgica
+T17	PROCEDIMIENTO 2137 2254	Se extirpó el hematoma, el tejido granular y cuerpo extraño (silicona) así como la tabla externa adelgazada y elevada
+T18	PROCEDIMIENTO 1550 1557	cirugía
+T19	PROCEDIMIENTO 2425 2432	cirugía

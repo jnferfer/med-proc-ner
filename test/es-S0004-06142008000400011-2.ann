@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 689 710	orquiectomía inguinal
+T2	PROCEDIMIENTO 822 871	quimioterapia citorreductiva según esquema R-CHOP
+T3	PROCEDIMIENTO 41 63	prostatectomía radical
+T4	PROCEDIMIENTO 68 94	linfadenectomía obturatriz
+T5	PROCEDIMIENTO 418 427	ecografía
+T6	PROCEDIMIENTO 526 539	TAC abdominal
+T7	PROCEDIMIENTO 558 579	TAC post orquiectomía
+T8	PROCEDIMIENTO 567 579	orquiectomía
+T9	PROCEDIMIENTO 463 478	estudio doppler
+T10	PROCEDIMIENTO 234 243	resección
+T11	PROCEDIMIENTO 268 286	cirugía prostática
+T12	PROCEDIMIENTO 979 999	esquema IFOVM / DHAP
+T13	PROCEDIMIENTO 483 507	evaluación preoperatoria

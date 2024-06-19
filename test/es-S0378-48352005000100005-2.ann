@@ -1,0 +1,10 @@
+T1	PROCEDIMIENTO 58 69	mastectomía
+T2	PROCEDIMIENTO 221 265	tratamiento complementario con quimioterapia
+T3	PROCEDIMIENTO 273 285	radioterapia
+T4	PROCEDIMIENTO 415 433	radioterapia local
+T5	PROCEDIMIENTO 594 627	tratamiento citostático paliativo
+T6	PROCEDIMIENTO 1078 1094	gammagrafía ósea
+T7	PROCEDIMIENTO 1334 1347	quimioterapia
+T8	PROCEDIMIENTO 267 270	CMF
+T9	PROCEDIMIENTO 141 162	receptores hormonales
+T10	PROCEDIMIENTO 405 412	cirugía

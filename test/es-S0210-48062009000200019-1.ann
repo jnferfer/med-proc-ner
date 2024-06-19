@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 1059 1115	quiste de uraco infectado, se realiza drenaje percutáneo
+T2	PROCEDIMIENTO 1753 1776	laparotomía exploradora
+T3	PROCEDIMIENTO 1462 1464	TC
+T4	PROCEDIMIENTO 1524 1535	enema opaco
+T5	PROCEDIMIENTO 1170 1215	antibioterapia intravenosa de amplio espectro
+T6	PROCEDIMIENTO 1591 1603	colonoscopia
+T7	PROCEDIMIENTO 2157 2194	linfadenectomía ilio-ceco-apendicular
+T8	PROCEDIMIENTO 1651 1662	cistoscopia
+T9	PROCEDIMIENTO 318 336	exploración física
+T10	PROCEDIMIENTO 2273 2309	resección segmentaria apéndico-cecal
+T11	PROCEDIMIENTO 441 460	analítica de sangre
+T12	PROCEDIMIENTO 525 556	análisis del sedimento urinario
+T13	PROCEDIMIENTO 654 673	ecografía abdominal
+T14	PROCEDIMIENTO 773 792	TC abdómino-pélvica
+T15	PROCEDIMIENTO 2061 2103	estudio anátomo-patológico intraoperatorio
+T16	PROCEDIMIENTO 1938 1946	exéresis
+T17	PROCEDIMIENTO 1120 1155	toma de muestras para microbiología
+T18	PROCEDIMIENTO 1805 1822	laparotomía media
+T19	PROCEDIMIENTO 2157 2194	linfadenectomía ilio-ceco-apendicular
+T20	PROCEDIMIENTO 2314 2336	diagnóstico patológico
+T21	PROCEDIMIENTO 1224 1241	cultivos seriados
+T22	PROCEDIMIENTO 2200 2243	diagnóstico intraoperatorio por congelación
+T23	PROCEDIMIENTO 2615 2622	cirugía
+T24	PROCEDIMIENTO 2516 2528	intervención

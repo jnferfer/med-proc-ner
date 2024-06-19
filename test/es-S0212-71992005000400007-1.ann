@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 461 479	Exploración física
+T2	PROCEDIMIENTO 871 880	Hemograma
+T3	PROCEDIMIENTO 2039 2058	Ecografía abdominal
+T4	PROCEDIMIENTO 1981 2001	Radiografía de torax
+T5	PROCEDIMIENTO 2995 3017	Biopsia de médula ósea
+T6	PROCEDIMIENTO 2925 2948	Aspirado de médula ósea
+T7	PROCEDIMIENTO 1164 1191	Frotis de sangre periférica
+T8	PROCEDIMIENTO 2870 2891	examen de médula ósea
+T9	PROCEDIMIENTO 487 505	exploración física
+T10	PROCEDIMIENTO 3860 3881	examen de médula ósea
+T11	PROCEDIMIENTO 2654 2675	examen de médula ósea
+T12	PROCEDIMIENTO 190 204	apendicectomía
+T13	PROCEDIMIENTO 207 222	colecistectomía
+T14	PROCEDIMIENTO 679 700	auscultación pulmonar
+T15	PROCEDIMIENTO 2823 2831	autopsia
+T16	PROCEDIMIENTO 2561 2594	aspirado y biopsia de médula ósea
+T17	PROCEDIMIENTO 3421 3439	Inmunohistoquímica
+T18	PROCEDIMIENTO 1859 1872	Proteinograma
+T19	PROCEDIMIENTO 2450 2477	frotis de sangre periférica
+T20	PROCEDIMIENTO 0 9	Anamnesis
+T21	PROCEDIMIENTO 1404 1414	Bioquímica
+T22	PROCEDIMIENTO 2701 2721	soporte hemoterápico
+T26	PROCEDIMIENTO 723 732	palpación

@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 4267 4288	tratamiento tiazídico
+T2	PROCEDIMIENTO 4609 4648	tratamiento farmacológico antidepresivo
+T3	PROCEDIMIENTO 3171 3196	tratamiento antidepresivo
+T4	PROCEDIMIENTO 4356 4375	restricción hídrica
+T5	PROCEDIMIENTO 1028 1043	benzodiacepinas
+T6	PROCEDIMIENTO 4798 4823	tratamiento antidepresivo
+T7	PROCEDIMIENTO 3789 3807	exploración física
+T8	PROCEDIMIENTO 2388 2412	medicación antidepresiva
+T9	PROCEDIMIENTO 1737 1756	restricción hídrica
+T10	PROCEDIMIENTO 2593 2604	TAC craneal
+T11	PROCEDIMIENTO 4096 4116	Radiografía de tórax
+T12	PROCEDIMIENTO 4119 4122	ECG
+T13	PROCEDIMIENTO 2710 2720	RM craneal
+T14	PROCEDIMIENTO 5240 5268	tratamiento antihipertensivo
+T15	PROCEDIMIENTO 2811 2830	restricción hídrica
+T16	PROCEDIMIENTO 1061 1075	antidepresivos
+T17	PROCEDIMIENTO 5313 5334	diuréticos tiazídicos
+T18	PROCEDIMIENTO 4300 4304	ISRS
+T19	PROCEDIMIENTO 2301 2326	tratamiento con diurético
+T20	PROCEDIMIENTO 3568 3587	estímulos dolorosos
+T21	PROCEDIMIENTO 908 949	Hipotiroidismo en tratamiento sustitutivo
+T22	PROCEDIMIENTO 2010 2020	diuréticos

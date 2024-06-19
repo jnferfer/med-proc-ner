@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 88 141	gastrectomía subtotal con reconstrucción en Y de Roux
+T2	PROCEDIMIENTO 381 439	transección y cierre de esófago abdominal y muñón gástrico
+T3	PROCEDIMIENTO 441 487	exclusión esofágica con esofagostomía cervical
+T4	PROCEDIMIENTO 500 528	yeyunostomía de alimentación
+T5	PROCEDIMIENTO 542 544	NE
+T6	PROCEDIMIENTO 592 612	NED por yeyunostomía
+T7	PROCEDIMIENTO 646 679	reconstruir el tránsito digestivo
+T8	PROCEDIMIENTO 703 715	colonoscopia
+T9	PROCEDIMIENTO 718 748	tomografía axial computerizada
+T10	PROCEDIMIENTO 1096 1116	NED por yeyunostomía
+T11	PROCEDIMIENTO 260 279	laparotomía urgente
+T12	PROCEDIMIENTO 962 997	anatomía patológica intraoperatoria
+T13	PROCEDIMIENTO 827 834	cirugía

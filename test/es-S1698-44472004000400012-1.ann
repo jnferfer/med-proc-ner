@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1046 1055	hemograma
+T2	PROCEDIMIENTO 1061 1083	estudio de coagulación
+T3	PROCEDIMIENTO 1587 1610	hipoglucemiantes orales
+T4	PROCEDIMIENTO 2483 2499	gammagrafía ósea
+T5	PROCEDIMIENTO 163 178	inspección oral
+T6	PROCEDIMIENTO 2502 2522	resonancia magnética
+T7	PROCEDIMIENTO 1432 1453	marcador hepatocito N
+T8	PROCEDIMIENTO 2812 2819	biopsia
+T9	PROCEDIMIENTO 1975 2001	resección hepática parcial
+T10	PROCEDIMIENTO 565 582	ortopantomografía
+T11	PROCEDIMIENTO 2092 2128	gammagrafía ósea con tecnecio 99-MDP
+T12	PROCEDIMIENTO 2131 2191	tomografía computarizada de cráneo, pulmón, abdomen y pelvis
+T13	PROCEDIMIENTO 722 737	anestesia local
+T14	PROCEDIMIENTO 756 782	exodoncia del tercer molar
+T15	PROCEDIMIENTO 991 1040	empaquetado en el lecho alveolar de cera de hueso
+T16	PROCEDIMIENTO 1146 1173	diagnóstico histopatológico
+T17	PROCEDIMIENTO 2674 2727	radioterapia paliativa sobre las lesiones vertebrales
+T18	PROCEDIMIENTO 777 823	molar y curetaje-biopsia del tejido subyacente
+T19	PROCEDIMIENTO 836 851	acto operatorio
+T20	PROCEDIMIENTO 2363 2375	intervención
+T21	PROCEDIMIENTO 384 420	se palpaban adenomegalias cervicales

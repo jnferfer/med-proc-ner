@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 163 202	resección segmentaria de colon sigmoide
+T2	PROCEDIMIENTO 679 692	colonoscopias
+T3	PROCEDIMIENTO 696 709	gastroscopias
+T4	PROCEDIMIENTO 713 750	exploraciones con cápsula endoscópica
+T5	PROCEDIMIENTO 757 808	enteroscopia con doble globo con acceso oral y anal
+T6	PROCEDIMIENTO 820 846	exploraciones endoscópicas
+T7	PROCEDIMIENTO 952 998	pólipo gástrico hiperplásico pequeño extirpado
+T8	PROCEDIMIENTO 1010 1072	angiodisplasias en colon ascendente también tratadas con argón
+T9	PROCEDIMIENTO 1205 1225	tratamiento hormonal
+T10	PROCEDIMIENTO 1341 1366	tratamientos endoscópicos
+T11	PROCEDIMIENTO 1460 1484	concentrados de hematíes
+T12	PROCEDIMIENTO 1643 1658	electromiograma
+T13	PROCEDIMIENTO 1945 1992	transfusión de otros 3 concentrados de hematíes
+T14	PROCEDIMIENTO 2051 2064	transfusiones
+T15	PROCEDIMIENTO 106 161	meningioma del ángulo pontocerebeloso izquierdo operado

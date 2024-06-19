@@ -1,0 +1,28 @@
+T1	PROCEDIMIENTO 1313 1338	Ecografía renal y vesical
+T2	PROCEDIMIENTO 1786 1833	anatomía patológica informa, en la macroscópica
+T3	PROCEDIMIENTO 457 475	exploración física
+T4	PROCEDIMIENTO 2254 2289	TAC de cuerpo completo de estadiaje
+T5	PROCEDIMIENTO 1387 1407	Ecografía testicular
+T6	PROCEDIMIENTO 3419 3430	fibroscopia
+T7	PROCEDIMIENTO 2765 2787	biopsia de medula ósea
+T8	PROCEDIMIENTO 1744 1781	orquiectomía radical por vía inguinal
+T9	PROCEDIMIENTO 3485 3497	TAC cervical
+T10	PROCEDIMIENTO 3225 3247	test de Coombs directo
+T11	PROCEDIMIENTO 660 705	exploración genital en el hemiescroto derecho
+T12	PROCEDIMIENTO 1232 1252	Radiografía de tórax
+T13	PROCEDIMIENTO 1282 1304	radiografía de abdomen
+T14	PROCEDIMIENTO 407 418	inhaladores
+T15	PROCEDIMIENTO 3766 3811	quimioterapia pautándosele 6 ciclos de R-CHOP
+T16	PROCEDIMIENTO 886 898	Tacto rectal
+T17	PROCEDIMIENTO 3830 3862	radioterapia genital coadyuvante
+T18	PROCEDIMIENTO 3865 3890	quimioprofilaxis cerebral
+T19	PROCEDIMIENTO 3597 3601	CHOP
+T20	PROCEDIMIENTO 3103 3119	frotis sanguíneo
+T21	PROCEDIMIENTO 1044 1055	Coagulación
+T22	PROCEDIMIENTO 2021 2038	Microscópicamente
+T23	PROCEDIMIENTO 3805 3811	R-CHOP
+T24	PROCEDIMIENTO 421 449	oxígeno crónico domiciliario
+T25	PROCEDIMIENTO 1184 1221	función renal, hepática y pancreática
+T26	PROCEDIMIENTO 3597 3658	CHOP (ciclofosfamida, doxorrubicina, vincristina, prednisona)
+T27	PROCEDIMIENTO 547 568	auscultación pulmonar
+T28	PROCEDIMIENTO 2630 2665	fórmula leucocitaria y linfocitaria

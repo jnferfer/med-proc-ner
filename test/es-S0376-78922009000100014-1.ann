@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 1171 1195	biopsia de la tumoración
+T2	PROCEDIMIENTO 2140 2165	estudio anatomopatológico
+T3	PROCEDIMIENTO 1936 2017	resección completa del tumor con márgenes amplios y el cierre directo del defecto
+T4	PROCEDIMIENTO 505 543	electrocoagulación del punto sangrante
+T5	PROCEDIMIENTO 549 564	anestesia local
+T6	PROCEDIMIENTO 603 628	estudio anatomopatológico
+T7	PROCEDIMIENTO 767 795	estudio de extensión tumoral
+T8	PROCEDIMIENTO 3795 3839	Resonancia Nuclear Magnética (RNM) del brazo
+T9	PROCEDIMIENTO 800 821	radiografía del brazo
+T10	PROCEDIMIENTO 3825 3828	RNM
+T11	PROCEDIMIENTO 3877 3925	estudios de imagen de control tóraco-abdominales
+T12	PROCEDIMIENTO 1795 1818	quimioterapia adyuvante
+T13	PROCEDIMIENTO 901 928	TAC tóraco-abdomino-pélvico
+T14	PROCEDIMIENTO 2538 2558	estudio microscópico
+T15	PROCEDIMIENTO 3084 3110	estudio inmunohistoquímico
+T16	PROCEDIMIENTO 2033 2069	tratamiento quimioterápico adyuvante
+T17	PROCEDIMIENTO 1739 1778	tratamiento quirúrgico de la tumoración
+T18	PROCEDIMIENTO 879 899	estudio de extensión
+T19	PROCEDIMIENTO 1880 1902	extirpación quirúrgica
+T20	PROCEDIMIENTO 728 761	pruebas de diagnóstico por imagen
+T25	PROCEDIMIENTO 2668 2684	Histológicamente
+T26	PROCEDIMIENTO 3508 3531	diagnóstico histológico
+T28	PROCEDIMIENTO 1907 1919	intervención
+T29	PROCEDIMIENTO 2172 2192	tumoración extirpada
